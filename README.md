@@ -1,0 +1,1 @@
+Make OS X keyboard shortcuts behave like windows
